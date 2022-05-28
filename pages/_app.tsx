@@ -1,8 +1,12 @@
 import '../styles/globals.css'
-import type { AppProps } from 'next/app'
+import { TransactionProvider } from '../context/TransactionContext'
 
-function MyApp({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+function MyApp({ Component, pageProps }: any) {
+  return (
+    <TransactionProvider>
+      <Component {...pageProps} />
+    </TransactionProvider>
+  )
 }
 
 export default MyApp
