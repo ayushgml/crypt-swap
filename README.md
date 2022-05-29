@@ -1,3 +1,6 @@
+<div>
+    <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Logo" width="30" height="30">
+</div>
 <div align="center">
     <h1 align="center">CryptSwap</h1>
     <h4 align="center">
@@ -29,3 +32,4 @@ You can see that after pasting the transaction Hash on Etherscan, we can see tha
 
 ## Motivation for project
 I am so fascinated by the blockchain technology and this is my first blockchain based project. I will be making more projects in the field of blockchain as I am very much interested in developing DApps.
+More projects coming!
