@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "cryptswap-blockchain-app"
-  },
   "api": {
     "projectId": "5uufgdv1",
     "dataset": "production"
+  },
+  "project": {
+    "name": "cryptswap-blockchain-app"
   },
   "plugins": [
     "@sanity/base",
