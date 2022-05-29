@@ -1,5 +1,5 @@
 <div>
-    <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Logo" width="30" height="30">
+    <img align="center" src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Logo" width="30" height="30">
 </div>
 <div align="center">
     <h1 align="center">CryptSwap</h1>
